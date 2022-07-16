@@ -1,8 +1,8 @@
 # calculadora-free-lancer
 Desafio do workshop da Reprograma.
 
-° Ferramentas utilizadas:
+Ferramentas utilizadas:
 
--VScode
+- VScode
 
--Netlify
+- Netlify
